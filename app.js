@@ -1,7 +1,9 @@
+
+// The custom command file
+
 import notes from './notes.js';
 import yargs from 'yargs';
 import {hideBin}from 'yargs/helpers'
-
 
 
 // const command = process.argv;  it gets the command line input
